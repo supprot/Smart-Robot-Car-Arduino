@@ -1,4 +1,11 @@
+
+
+
 # Smart-Robot-Car-Arduino
+
+The install video link:
+
+https://youtu.be/0FB7J-Qzcag
 
 Ardcam smart robot car V1 : support smart mode
 
